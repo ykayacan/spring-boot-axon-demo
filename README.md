@@ -2,6 +2,8 @@
 
 This is an example Spring Boot project with Axon Framework to demonstrate CQRS event sourcing.
 
+Required Java Version: 14 
+
 ## Usage
 
 Run Axon Server
