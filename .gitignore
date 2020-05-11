@@ -32,4 +32,4 @@ out/
 .vscode/
 
 ### JENV ###
-.java-version/
+.java-version
